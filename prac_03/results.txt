@@ -1,0 +1,10 @@
+72 is Passable
+3 is Bad
+18 is Bad
+98 is Excellent
+92 is Excellent
+20 is Bad
+56 is Passable
+33 is Bad
+62 is Passable
+83 is Passable
